@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578642233008",
+    "project_id": "testgitnine",
+    "storage_bucket": "testgitnine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578642233008:android:53ee6dd62eaae93da61d75",
+        "android_client_info": {
+          "package_name": "com.example.testgitnine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578642233008-t63noecsq6a7esurpea3vmffmqnca2pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOvkMq6ErT77ORg1F0jCLiWB3WukFkzDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578642233008-t63noecsq6a7esurpea3vmffmqnca2pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
